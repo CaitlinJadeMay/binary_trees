@@ -1,4 +1,3 @@
-
 #include <stdlib.h>
 #include "../binary_trees.h"
 
@@ -24,5 +23,5 @@ root->right->right = binary_tree_node(root->right, 512);
 binary_tree_print(root);
 return (0);
 }
-0-main.c
-Displaying 0-main.c.
+0 - main.c
+Displaying 0 - main.c.
