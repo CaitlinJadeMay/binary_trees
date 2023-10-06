@@ -97,5 +97,3 @@ free(s[i]);
 }
 free(s);
 }
-binary_tree_print.c
-Displaying binary_tree_print.c.
